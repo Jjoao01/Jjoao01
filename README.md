@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.gifer.com/xK.gif"  />
+  <img height="300" src="https://i.pinimg.com/originals/4c/2d/5f/4c2d5fdb384a5e68eda0cc5886c00417.gif"  />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 
 ###
 
-<h5 align="center">Olá, Me chamo João Gustavo, tenho 17 Anos, Atualmente estou no ultimo ano do ensino Medio, sou apaixonado por tecnologia e pelo oque ela oferecer, Estou na Parte de Back-end com C# e .Net Core, Porém pretendo me tornar um Desenvolvedor FullStack com Blazor, Futuramente pretendo começar minha graduação em Engenharia de Software.</h5>
+<h4 align="center">Olá, Me chamo João Gustavo, tenho 17 Anos, Atualmente estou no ultimo ano do ensino Medio, sou apaixonado por tecnologia e pelo oque ela oferecer, Estou na Parte de Back-end com C# e .Net Core, Porém pretendo me tornar um Desenvolvedor FullStack com Blazor, Futuramente pretendo começar minha graduação em Engenharia de Software.</h4>
 
 ###
 
@@ -30,7 +30,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
@@ -49,10 +51,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jjoao01&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jjoao01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
 
 ###
