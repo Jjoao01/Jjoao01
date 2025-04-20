@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jjoao01&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
 
