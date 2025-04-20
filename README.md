@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="center">Olá, Me chamo João Gustavo, tenho 17 Anos, Atualmente estou no ultimo ano do ensino Medio, sou apaixonado por tecnologia e pelo oque ela oferecer, Estou na Parte de Back-end com C# e .Net Core, Porém pretendo me tornar um Desenvolvedor FullStack com Blazor, Futuramente pretendo começar minha graduação em Engenharia de Software.</h4>
+<h4 align="center">Olá, Me chamo João Gustavo, tenho 17 Anos, atualmente estou no ultimo ano do ensino Medio, sou apaixonado por tecnologia e pelo oque ela pode oferecer, estou na Parte de Back-end com C# e .Net Core, porém pretendo me tornar um Desenvolvedor FullStack com Blazor, futuramente pretendo começar minha graduação em Engenharia de Software.</h4>
 
 ###
 
